@@ -1,0 +1,16 @@
+Backend
+cd backend
+pip install -r requirements.txt
+uvicorn app.main:app --reload
+
+Crie um arquivo .env com base no .env.example.
+
+Frontend
+cd ZstockFrontend
+npm install
+npm run dev
+Variáveis de ambiente
+
+Crie um arquivo .env no backend:
+
+DATABASE_URL=postgresql://usuario:senha@localhost:5432/zstock_db

@@ -73,4 +73,14 @@ Crie um arquivo .env no backend:
 
 DATABASE_URL=postgresql://usuario:senha@localhost:5432/zstock_db
 
+Produtos/Cadastro
+
 ![Produtos](docs/Produtos.png)
+
+Movimentações
+
+![Movements](docs/Movements.png)
+
+Histórico
+
+![Movements](docs/Historico.png)

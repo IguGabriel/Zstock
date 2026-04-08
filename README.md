@@ -54,3 +54,21 @@ Além disso, o sistema implementa regras de negócio importantes e apresenta ind
 - Vite
 - Axios
 - CSS
+Backend
+cd backend
+pip install -r requirements.txt
+uvicorn app.main:app --reload
+
+Como executar
+
+Crie um arquivo .env com base no .env.example.
+
+Frontend
+cd ZstockFrontend
+npm install
+npm run dev
+Variáveis de ambiente
+
+Crie um arquivo .env no backend:
+
+DATABASE_URL=postgresql://usuario:senha@localhost:5432/zstock_db

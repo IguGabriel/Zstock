@@ -21,7 +21,7 @@ Além disso, o sistema implementa regras de negócio e indicadores visuais para 
 ## 🖼️ Demonstração
 
 ### 📦 Gestão de Produtos
-![Produtos](docsProdutos.png)
+![Produtos](docs/Produtos.png)
 
 ### 🔄 Movimentações de Estoque
 ![Movimentações](docs/Movements.png)

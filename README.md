@@ -72,3 +72,5 @@ Variáveis de ambiente
 Crie um arquivo .env no backend:
 
 DATABASE_URL=postgresql://usuario:senha@localhost:5432/zstock_db
+
+![Produtos](docs/Produtos.png)

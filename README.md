@@ -1,5 +1,7 @@
 # 📦 ZStock
 
+## 🚀 Projeto principal do portfólio
+
 Sistema web de controle de estoque com cadastro de produtos, movimentações e histórico, desenvolvido com FastAPI, React e PostgreSQL.
 
 ---

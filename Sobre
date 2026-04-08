@@ -1,0 +1,30 @@
+--Interface--
+Produtos
+Cadastro de produtos
+Lista com estoque atual
+Indicador de estoque baixo
+Dashboard com resumo
+
+Movimentações
+Registro de entradas e saídas
+Atualização em tempo real do estoque
+
+Histórico
+Visualização cronológica
+Filtro por produto
+Identificação por tipo (entrada/saída)
+
+Melhorias futuras
+Autenticação de usuários
+Controle de permissões
+Edição e exclusão de produtos
+Dashboard com métricas avançadas
+Deploy da aplicação
+
+Objetivo
+
+Demonstrar conhecimentos em desenvolvimento full stack, integração entre frontend e backend, modelagem de dados e aplicação de regras de negócio em um sistema de gestão.
+
+Autor
+
+Desenvolvido por Igor Gabriel
